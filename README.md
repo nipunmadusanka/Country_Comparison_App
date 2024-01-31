@@ -1,2 +1,2 @@
 # Country_Comparison_App
-Country Comparison Appjkjkj
+The Country Comparison App is a React-based web application that enables users to compare key information between two countries. It uses the REST Countries API to fetch data, allowing users to select countries from a list and view details such as name, capital, population, and more. The app features a visually appealing interface with flags and basic styling, ensuring a clean and intuitive user experience. Error handling is implemented to gracefully manage issues during data fetching or if selected countries are not found.
