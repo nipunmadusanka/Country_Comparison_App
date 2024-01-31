@@ -9,7 +9,7 @@ The Country Comparison App is a React-based web application that enables users t
 
 - **Visual Elements:** Flags of the selected countries are added for a visually appealing experience, enhancing the user interface.
 
-- **Basic Styling:** The application incorporates CSS styling to ensure a clean, intuitive, and user-friendly interface.
+- **Basic Styling:** The application incorporates Tailwind CSS styling to ensure a clean, intuitive, and user-friendly interface.
 
 - **Error Handling:** Graceful error messages are displayed in case of issues with data fetching or when the selected countries are not found.
 
